@@ -12,4 +12,4 @@ function Test2(props){
 
 }
 
-export default Test2;
+export default Test2
